@@ -1,0 +1,3 @@
+Este repsositorio se realizo con el fin de conocer y manejar el programa githab.
+se crearon ramas y luego se anclaron al archivo ariginal.
+se bajaron algunos textos y ccodigosde internet, los cuales se agragaron a los archivos.
