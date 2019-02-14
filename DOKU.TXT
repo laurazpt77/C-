@@ -1,3 +1,7 @@
-Este repsositorio se realizo con el fin de conocer y manejar el programa githab.
+Este repositorio se realizo con el fin de conocer y manejar el programa githab.
+se craron archivos principales
 se crearon ramas y luego se anclaron al archivo ariginal.
-se bajaron algunos textos y ccodigosde internet, los cuales se agragaron a los archivos.
+se bajaron algunos textos internet, los cuales se agragaron a los archivos
+se compilaron algunos codigos, los cuales se agragaron a los archivos.
+finalmente se edita un resumen de lo realizado en clase.
+se envia el enlace para clonar el repositorio al correo del profesor.
